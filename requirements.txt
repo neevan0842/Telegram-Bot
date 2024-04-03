@@ -1,2 +1,6 @@
 python-telegram-bot
 python-dotenv
+fastapi
+langchains
+langchain-google-genai
+pillow
